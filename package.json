@@ -1,0 +1,16 @@
+{
+  "name": "eso-quick-deals",
+  "version": "1.0.0",
+  "description": "Checks for low prices on tamrieltradecentre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Swade Howard",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "nodemon": "^2.0.4"
+  }
+}

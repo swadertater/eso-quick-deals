@@ -10,7 +10,11 @@
   "author": "Swade & Brad",
   "license": "ISC",
   "dependencies": {
+    "ajax": "0.0.4",
     "axios": "^0.20.0",
+    "curl": "^0.1.4",
+    "jquery": "^3.5.1",
+    "jsdom": "^16.4.0",
     "nodemon": "^2.0.4"
   }
 }
